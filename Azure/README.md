@@ -46,7 +46,7 @@ The purpose of this assignment is to provide hands-on experience in creating, co
 
 ### 4. Connect to the Virtual Machine
 - **Windows**: Download the RDP file via **Connect** in Azure portal, login with admin credentials.  
-  ![Access through RDP](Azure/Access_through_RDP.png)
+  ![Access through RDP](Access_through_RDP.png)
 - **Linux**: Connect via SSH using public IP.
 
 ---
@@ -56,18 +56,18 @@ The purpose of this assignment is to provide hands-on experience in creating, co
 - Within storage account, create a **File Share**.
 - Mount file share on VM & local PC.
   - Windows: Map network drive  
-    ![File Share on VM](Azure/File_share_on_VM.png)  
+    ![File Share on VM](File_share_on_VM.png)  
   - Test file operations (create, read, delete)  
-    ![File Share Read & Write](Azure/File_share_read&write.png)
+    ![File Share Read & Write](File_share_read&write.png)
 
 ---
 
 ### 6. Tasks on the Virtual Machine (Optional)
 - **Windows VM**:
   - Install IIS Web Server & publish a website  
-    ![IIS Website](Azure/IIS_Website.png)
+    ![IIS Website](IIS_Website.png)
   - Install SQL Server Express & create a database  
-    ![SQL Database](Azure/Create_SQL_Database.png)
+    ![SQL Database](Create_SQL_Database.png)
 - **Linux VM**:
   - Install Apache & MySQL
   - Configure Samba file sharing
@@ -77,8 +77,8 @@ The purpose of this assignment is to provide hands-on experience in creating, co
 
 ### 7. Resource Group & Server Management
 - Overview of deployed resources and Server Manager  
-  ![Resource Group](Azure/Resource.png)  
-  ![Server Manager](Azure/Server_Manager.png)
+  ![Resource Group](Resource.png)  
+  ![Server Manager](Server_Manager.png)
 
 ---
 
